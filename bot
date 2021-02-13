@@ -4,17 +4,17 @@ import webbrowser
 import time
 x = 1
 while True:
-  webbrowser.open('http://url/')
+  webbrowser.open('http://www.dextale.com/')
   time.sleep(15)
-	webbrowser.open_new_tab('http://url/')
+	webbrowser.open_new_tab('http:///www.dextale.com/')
 	time.sleep(10)
-	webbrowser.open_new_tab('http://url/')
+	webbrowser.open_new_tab('http:///www.dextale.com/')
 	time.sleep(10)	
-	webbrowser.open_new_tab('http://url/')
+	webbrowser.open_new_tab('http:///www.dextale.com/')
 	time.sleep(10)
-	webbrowser.open_new_tab('http://url/')
+	webbrowser.open_new_tab('http:///www.dextale.com/')
 	time.sleep(10)	
-	webbrowser.open_new_tab('http://url/')
+	webbrowser.open_new_tab('http:///www.dextale.com/')
 	time.sleep(10)
 	x +=1
 	
